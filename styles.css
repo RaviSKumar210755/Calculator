@@ -54,3 +54,27 @@
   .disp{
     margin-right: 20px;
   }
+  .buttons button.operator {
+    background-color: #f0ad4e; /* Change the background color for operators */
+    color: #fff;
+}
+
+.buttons button.operator:hover {
+    background-color: #ec971f; /* Change the hover background color for operators */
+}
+/* Option 3 */
+.buttons button.clear {
+  background-color: #2ecc71;
+  color: #fff;
+}
+
+.buttons button.clear:hover {
+  background-color: #27ae60;
+}
+
+
+
+
+
+
+
